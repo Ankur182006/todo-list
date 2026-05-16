@@ -88,7 +88,7 @@ This project is great for learning:
 
 ## 👨‍💻 Author
 
-* Created by: *Your Name*
+* Created by: Ankur Vishwakarma
 * Beginner Frontend Project 🚀
 
 ---
